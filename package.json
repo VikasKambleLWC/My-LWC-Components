@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vikaskamblelwc.lwc-l0t92ol7-fork-l0t96ymm",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nI6H9hsLy53xqFmh0Cpp --open"
+  }
+}
